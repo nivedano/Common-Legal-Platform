@@ -48,7 +48,7 @@ Help us to shape and implement these principles. Let’s design the future!
       - hosting concrete data assets (e.g. commonly accepted documents and standard taxonomy), sharing knowledge and connecting people.
    3. Basis
    
-      The CLP shall realy on advances in
+      The CLP shall relay on advances in
       - digitalization;
       - standardization;
       - material law; 
